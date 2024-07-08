@@ -1,0 +1,13 @@
+{
+    "map_id": "17017769292",
+    "vip_link": " Put Your Vip Link here!",
+    "rejoin_speed": 1,
+    "checkscreen": 1,
+    "scripts_folder": "Autoexec",
+    "adb_paths": {
+        "arceus_x": false,
+        "fluxus": true,
+        "delta": false,
+        "codex": false
+    }
+}
